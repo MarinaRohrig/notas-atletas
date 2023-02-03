@@ -8,7 +8,5 @@ Cada jurado avalia um critério específico.
 
 ## Pré-Requisitos
 1. Cada jurado pode fornecer uma nota de 1 a 10; 
-<br>
 2. A pontuação final do atleta é calculada pela média das três notas do meio, desconsiderando a maior e a menor nota.
-<br>
 
